@@ -52,6 +52,7 @@ git init
 git add .
 git commit -m 'The test'
 ```
+It would be best for us to review your submission as a PR so if you could push the code up initial on the "main" branch and then start a new PR **into your own repo** for the actual task that would be most appreciated.
 
 Once completed please provide access to [@albanh](https://github.com/albanh), [@alexbirtwell](https://github.com/alexbirtwell) and [@oddvalue](https://github.com/oddvalue). This can be done under Settings > Collaborators.
 
