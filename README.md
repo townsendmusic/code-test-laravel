@@ -39,7 +39,10 @@ While we understand the time-consuming nature of coding tasks, we kindly request
 ## Submitting the Test
 
 The easiest way for all involved to review this test is via GitHub. 
-**Important: Do not fork** as this is a public repository and your submissions will be publically visible. We instead request that you clone the project and copy the code to your own **private repository**.
+
+**Important: Do not fork** as this is a public repository and your submissions will be publically visible. 
+
+We instead request that you clone the project and copy the code to your own **private repository**.
 
 ```sh
 git clone --depth 1 git@github.com:townsendmusic/code-test.git tm-code-test
